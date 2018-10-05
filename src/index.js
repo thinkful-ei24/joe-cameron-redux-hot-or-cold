@@ -6,6 +6,9 @@ import './index.css';
 
 import Game from './components/game';
 
+//Redux testing dispatch
+
+//
 ReactDOM.render(
   <Game />,
   document.getElementById('root')
